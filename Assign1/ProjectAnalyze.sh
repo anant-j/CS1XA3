@@ -11,4 +11,4 @@ git diff >> changes.log
 grep -r --exclude="todo.log" "#TODO" * >> todo.log
 
 #Part 4
-ghc -fno-code "*".hs >> error.log
+find . -iname "*.hs" -exec ghc -fno-code {} \; >> error.log
