@@ -1,7 +1,8 @@
 #!/bin/bash
 
 #Part 1
-echo git status
+git fetch
+git status
 
 #Part 2
 git diff > changes.log
