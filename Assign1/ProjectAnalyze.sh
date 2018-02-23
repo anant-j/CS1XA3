@@ -8,7 +8,7 @@ git status
 git diff >> changes.log
 
 #Part 3
-grep "#TODO" >> todo.log
+grep -r --exclude="todo.log" "#TODO" * >> todo.log
 
 #Part 4
-ghc -fno-code *.hs &> error.log
+ghc -fno-code "*.hs" >> error.log
