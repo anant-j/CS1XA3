@@ -1,4 +1,4 @@
 This file was created on 2018-02-25
-Size of /u50/jaina17/CS1XA3/Assign1/changes.log = 3897 bytes.
-Size of /u50/jaina17/CS1XA3/Assign1/todo.log = 260 bytes.
-Size of /u50/jaina17/CS1XA3/Assign1/error.log = 0 bytes.
+Size of changes.log = 3933 bytes.
+Size of todo.log = 260 bytes.
+Size of error.log = 0 bytes.
