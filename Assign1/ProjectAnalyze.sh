@@ -14,8 +14,6 @@ grep -r --exclude="todo.log" "#TODO" * >> todo.log
 ghc -fno-code *.hs $1 &>> error.log
 
 #Part 5
-echo "Enter characters to be reversed and printed in a temporary file?" | boxes
+echo "Enter characters to be reversed and printed in a temporary file?"
 while read response;
-do
-	echo  ${response}|rev
-done
+echo  ${response}|rev

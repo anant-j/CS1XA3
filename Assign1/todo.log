@@ -1,2 +1,0 @@
-changes.log:@@ -14,27 +14,8 @@ grep -r --exclude="todo.log" "#TODO" * >> todo.log
-ProjectAnalyze.sh:grep -r --exclude="todo.log" "#TODO" * >> todo.log
