@@ -1,0 +1,4 @@
+This file was created on 2018-02-25
+Size of changes.log = 1021 bytes.
+Size of todo.log = 68 bytes.
+Size of error.log = 0 bytes.
