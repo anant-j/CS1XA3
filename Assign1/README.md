@@ -43,11 +43,9 @@ e)The file finally adds the newly created file via git add command.
 ## References:
 
 a) Learnt the difference between > and >> through : https://serverfault.com/questions/196734/bash-difference-between-and-operator
-
 b)Check for palindrome and used in-built reverse function through https://phoxis.org/2010/01/26/bash-palindrome/
-
 c)Borrowed a part of Ali's Personal Feature, thanks for that : https://github.com/Kariappa/CS1XA3/blob/master/Assign1/ProjectAnalyze.sh
-
 d)Learned how to use IF statements: https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
+e)Special mention to Ali Ameer Kariapper , https://github.com/Kariappa/CS1XA3.git for the concept of date insertion in file.
 
 
