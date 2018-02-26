@@ -28,24 +28,20 @@ b)
 
 ## Part-5:Personal Feature
 
-a)In this feature, the script checks for a user to input a palindrome(less than 20 characters or else it automatically proceeds)
-b)If the text entered is a palindrome, the code proceeds or else it displays an error message.
-c)If the code proceeds, a new text file with the name of the entered palindrome is created.
-d)The date the document was created and the size of the 3 files created in Part 2,3 and 4 is appended in the newly created file.[Idea of date borrowed from :Ali Ameer Kariapper , https://github.com/Kariappa/CS1XA3.git]
+a)In this feature, the script checks for a user to input a palindrome(less than 20 characters or else it automatically proceeds)  
+b)If the text entered is a palindrome, the code proceeds or else it displays an error message.  
+c)If the code proceeds, a new text file with the name of the entered palindrome is created.  
+d)The date the document was created and the size of the 3 files created in Part 2,3 and 4 is appended in the newly created file.[Idea of date borrowed from :Ali Ameer Kariapper , https://github.com/Kariappa/CS1XA3.git]  
 e)The file finally adds the newly created file via git add command.
 
 ---
 
 ## References:
 
-a) Learnt the difference between > and >> through : https://serverfault.com/questions/196734/bash-difference-between-and-operator
-
-b)Check for palindrome and used in-built reverse function through https://phoxis.org/2010/01/26/bash-palindrome/
-
-c)Borrowed a part of Ali's Personal Feature, thanks for that : https://github.com/Kariappa/CS1XA3/blob/master/Assign1/ProjectAnalyze.sh
-
-d)Learned how to use IF statements: https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
-
-e)Special mention to Ali Ameer Kariapper , https://github.com/Kariappa/CS1XA3.git for the concept of date insertion in file.
+a) Learnt the difference between > and >> through : https://serverfault.com/questions/196734/bash-difference-between-and-operator  
+b)Check for palindrome and used in-built reverse function through https://phoxis.org/2010/01/26/bash-palindrome/  
+c)Borrowed a part of Ali's Personal Feature, thanks for that : https://github.com/Kariappa/CS1XA3/blob/master/Assign1/ProjectAnalyze.sh  
+d)Learned how to use IF statements: https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php  
+e)Special mention to Ali Ameer Kariapper , https://github.com/Kariappa/CS1XA3.git for the concept of date insertion in file.  
 
 
