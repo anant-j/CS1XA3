@@ -28,3 +28,20 @@ b)Check for palindrome and used in-built reverse function through https://phoxis
 c)Borrowed a part of Ali's Personal Feature, thanks for that : https://github.com/Kariappa/CS1XA3/blob/master/Assign1/ProjectAnalyze.sh
 d)Learned how to use IF statements: https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
 
+Heading
+=======
+
+## Sub-heading
+ 
+Paragraphs are separated
+by a blank line.
+
+Two spaces at the end of a line  
+produces a line break.
+
+Text attributes _italic_, 
+**bold**, `monospace`.
+
+Horizontal rule:
+
+---
