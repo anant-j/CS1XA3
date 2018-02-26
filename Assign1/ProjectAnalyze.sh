@@ -11,7 +11,7 @@ git diff > changes.log
 grep -r --exclude="todo.log" "#TODO" * > todo.log
 
 #Part 4
-ghc -fno-code *.hs $1 & > error.log
+find . -name "*.hs" -exec ghc -fno-code {} \; &> error.log 
 
 #Part 5
 echo Enter a palindrome to create a new file with file information.Ignore capitalization.
