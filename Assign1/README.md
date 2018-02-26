@@ -29,13 +29,9 @@ b)
 ## Part-5:Personal Feature
 
 a)In this feature, the script checks for a user to input a palindrome(less than 20 characters or else it automatically proceeds)
-
 b)If the text entered is a palindrome, the code proceeds or else it displays an error message.
-
 c)If the code proceeds, a new text file with the name of the entered palindrome is created.
-
 d)The date the document was created and the size of the 3 files created in Part 2,3 and 4 is appended in the newly created file.[Idea of date borrowed from :Ali Ameer Kariapper , https://github.com/Kariappa/CS1XA3.git]
-
 e)The file finally adds the newly created file via git add command.
 
 ---
