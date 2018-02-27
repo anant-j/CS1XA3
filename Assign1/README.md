@@ -44,5 +44,9 @@ b)Check for palindrome and used in-built reverse function through https://phoxis
 c)Borrowed a part of Ali's Personal Feature, thanks for that : https://github.com/Kariappa/CS1XA3/blob/master/Assign1/ProjectAnalyze.sh  
 d)Learned how to use IF/ELSE statements: https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php  
 e)Learned how to use Markdown for readme file using Wikipedia: https://en.wikipedia.org/wiki/Markdown
+---
+## EXTRA REMOVAL.SH SCRIPT:
+
+Created an extra Removal.sh script to remove the three files,namely changes.log, todo.log and error.log because it was a tedious process {if required} to remove them one by one.
 
 
