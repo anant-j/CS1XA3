@@ -4,13 +4,15 @@ CS1XA3 - Assignment 2
 ## Part-1:CV Webpage
 
 a)Used a personal website template for my website inspired from: https://colorlib.com/wp/free-personal-website-templates/  
-b)Modified index.html, main.css and other files according to personal use.
+b)Modified index.html, main.css and other files according to personal use.  
+c)The website can be accessed at: http://ugweb.cas.mcmaster.ca/~jaina17
 
 ---
 ## Part-2:Elm WebApp
 
 a)Developed an Elm Web-App which is a two-player tic tac toe game.  
 b)Used basic elm knowledge to make the app.  
+c)The game/web-app can be accessed at: http://ugweb.cas.mcmaster.ca/~jaina17/TicTacToe-elm/index.html
 
 ---
 ## References:
