@@ -23,23 +23,23 @@ Build a math library in haskell for helping you with your Calculus homework. It 
 ---
 ## Part-2: ExprParser.hs
 
-* This module has been obtained and derived from Chenc118 [here](https://github.com/chenc118/CS1XA3)  
+* This module has been obtained and derived from Chenc118 which can be browsed [here](https://github.com/chenc118/CS1XA3)  
 
 ---
 ## Part-3: ExprPretty.hs
 
-* This module has been obtained and derived from Vermav6 [here](https://github.com/vermav6/CS1XA3)  
+* This module has been obtained and derived from Vermav6 which can be browsed [here](https://github.com/vermav6/CS1XA3)  
 
 
 ---
 ## Part-4: ExprTest.hs
 
-* This module has been obtained and derived from Tanejs4 [here](https://github.com/TANEJS4/CS1XA3)  
+* This module has been obtained and derived from Tanejs4 which can be browsed [here](https://github.com/TANEJS4/CS1XA3)  
 
 
 ---
 ## Part-5: ExprType.hs
 
-* This module has been obtained and derived from Gibsoj12 [here](https://github.com/gibsoj12/CS1XA3)  
+* This module has been obtained and derived from Gibsoj12 which can be browsed [here](https://github.com/gibsoj12/CS1XA3)  
 
 ---
