@@ -12,10 +12,10 @@ Create a bash script ProjectAnalyze.sh to keep at the root of your git repo that
 ---
 ## - Assignment 2  
 
-Part 1  
+# Part 1  
 *Create a CV webpage for yourself  
 
-Part 2
+# Part 2  
 *Create a Web App that shows off your knowlege of the Elm Architecture functionality and link it from your homepage
 
 ---
