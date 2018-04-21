@@ -14,7 +14,7 @@ Build a math library in haskell for helping you with your Calculus homework. It 
 2. Can partially evaluate an expression (or fully)  
 3. Can perform partial differentiation (symbolic)  
 4. Can perform some simplification of expressions  
-5. Can parse certain strings into an expression datatype (specify required format in documentation)  
+5. Can parse certain strings into an expression datatype    
 
 ## Part-1: ExprDiff.hs
 
